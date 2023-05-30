@@ -1,9 +1,9 @@
 # Title: Motorcycle Shop in Germany
 ---
-**Description:
+### Description:
 The Motorcycle Shop is a premier destination for motorcycle enthusiasts in Maryland. Located in the heart of the state, our shop offers a wide range of services and products to cater to all motorcycle needs. We pride ourselves on providing top-notch customer service and expertise in everything related to motorcycles.
 ---
-**Features:
+### Features:
 1. Extensive Inventory: 
 Our shop houses a vast selection of motorcycles, ranging from cruisers and sport bikes to dirt bikes and adventure motorcycles. We carry both new and used bikes, catering to riders of all preferences and budgets.
 
@@ -28,7 +28,7 @@ We understand that purchasing a motorcycle is a significant investment. To facil
 8. Events and Community:
 We foster a vibrant motorcycle community by organizing events, group rides, and meetups. Join us to connect with fellow riders, share experiences, and engage in the exhilarating world of motorcycles.
 
-**Visit the Motorcycle Shop in Germany and embark on an exciting journey with your two-wheeled companion. Our commitment to quality, service, and the thrill of riding sets us apart as the go-to destination for all things motorcycle-related in the state.
+Visit the Motorcycle Shop in Germany and embark on an exciting journey with your two-wheeled companion. Our commitment to quality, service, and the thrill of riding sets us apart as the go-to destination for all things motorcycle-related in the state.
 ---
 ![bild1](https://github.com/tide-27/project_1_moto/assets/115164008/1008d99a-7bff-46f9-a5a4-67eb5471b679)
 ---
