@@ -1,7 +1,7 @@
 # Title: Motorcycle Shop in Germany
 ---
 ### Description:
-The Motorcycle Shop is a premier destination for motorcycle enthusiasts in Maryland. Located in the heart of the state, our shop offers a wide range of services and products to cater to all motorcycle needs. We pride ourselves on providing top-notch customer service and expertise in everything related to motorcycles.
+The Motorcycle Shop is a premier destination for motorcycle enthusiasts in Germany. Located in the heart of the state, our shop offers a wide range of services and products to cater to all motorcycle needs. We pride ourselves on providing top-notch customer service and expertise in everything related to motorcycles.
 ---
 ### Features:
 1. Extensive Inventory: 
